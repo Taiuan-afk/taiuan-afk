@@ -119,4 +119,4 @@ Me chamo Taiuan Costa, tenho 19 anos e sou desenvolvedor FullStack com foco em J
 
 - GitHub: [@Taiuan-afk](https://github.com/Taiuan-afk)
 - LinkedIn: [Taiuan Costa](https://www.linkedin.com/in/taiuan-afk-)
-- Email: [Taiuan COsta](taiuancosta8@gmail.com)
+- Email: [Taiuan Costa](taiuancosta8@gmail.com)
